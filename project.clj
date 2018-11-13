@@ -15,7 +15,7 @@
        ns
        "\u001B[35m]\u001B[33m λ\u001B[m=> "))
 
-(defproject gov.nasa.earthdata/cmr-jar-plugin "0.1.0"
+(defproject gov.nasa.earthdata/cmr-jar-plugin "0.2.0-SNAPSHOT"
   :description "A library for creating JAR-based plugins"
   :url "https://github.com/cmr-exchange/cmr-jar-plugin"
   :license {
